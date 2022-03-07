@@ -5,11 +5,11 @@ Hi, My name is Jorge, I'm from Chile and I'm a Software Engineering.
 
 ## Skills 👀 
 
-I'm interested in backend stack: Java, Quarkus, NodeJS, NestJS, Golang, among others
-I'm a begginer in frontend stack: React & Angular
-I've experience developing apps in the AWS and GCP clouds
-I like everything related to serverless
-Special skills and experience in agile metodology
+* I'm interested in backend stack: Java, Quarkus, NodeJS, NestJS, Golang, among others
+* I'm a begginer in frontend stack: React & Angular
+* I've experience developing apps in the AWS and GCP clouds
+* I like everything related to serverless
+* Special skills and experience in agile metodology
 
 
 
